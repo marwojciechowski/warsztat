@@ -1,4 +1,5 @@
 <?php
-require_once "Customer.php"
-class Mechanic extends Customer{}
+require_once "Person.php";
+
+class Mechanic extends Person { }
 ?>
