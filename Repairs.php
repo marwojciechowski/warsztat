@@ -6,11 +6,11 @@ class Repairs
 	private $price;
 	private $date;
 	
-	public function __construct($id,$price,$date)
+	public function __construct($id, $price, $date)
 	{
-		$this->id=$id;
-		$this->price=$price;
-		$this->date=$date;
+		$this->id = $id;
+		$this->price = $price;
+		$this->date = $date;
 	}
 	
 }

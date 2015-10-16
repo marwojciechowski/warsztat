@@ -11,5 +11,7 @@
 	$stand = new Stand;
 	$repair = new Repairs(1,"600zł", "20-10-2015");
 
+	$car->changeModel("S7");
+	
 ?>
 
