@@ -2,14 +2,11 @@
 
 class Car
 {
-	$make;
-	$model;
-	$trim;
-	$gear;
-	$vin;
-	$drive_type;
-	$year;
-	$engine;
+	private $make;
+	private $model;
+	private $trim;
+	private $year;
+	private $engine;
 }
 
 ?>
