@@ -2,6 +2,7 @@
 
 class Car
 {
+	private $id;	
 	private $make;
 	private $model;
 	private $trim;
